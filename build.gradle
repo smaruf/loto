@@ -78,7 +78,7 @@ dependencyManagement {
 }
 
 contracts {
-	targetFramework = org.springframework.cloud.contract.verifier.config.TestFramework.JUNIT5
+	testFramework = org.springframework.cloud.contract.verifier.config.TestFramework.JUNIT5
 	testMode = 'WebTestClient'
 }
 
