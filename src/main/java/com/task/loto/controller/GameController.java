@@ -1,6 +1,6 @@
 package com.task.loto.controller;
 
-@controller
+@Controller
 public class GameController {
-    
+
 }
